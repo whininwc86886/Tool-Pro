@@ -1,0 +1,7 @@
+{
+    "name": "示例插件",
+    "version": "1.0.0",
+    "description": "这是一个示例插件",
+    "author": "工具箱开发者",
+    "main_module": "__init__"
+}
